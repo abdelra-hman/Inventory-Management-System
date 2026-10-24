@@ -1,5 +1,14 @@
+# Visual Studio
 .vs/
+**/.vs/
 **/bin/
 **/obj/
+
+# User-specific files
 *.user
 *.suo
+*.rsuser
+
+# Build outputs
+[Dd]ebug/
+[Rr]elease/
